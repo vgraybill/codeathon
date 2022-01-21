@@ -52,6 +52,7 @@ div.lines hr{
 }
 .product-section article img{
     width: 100%;
+    height: 100%;
 }
 .product-section article img:hover {
     opacity: 30%;
@@ -80,6 +81,7 @@ div.lines hr{
 
 .sales article img{
     width: 100%;
+    height: 100%;
 }
 .sales article img:hover {
     opacity: 30%;
