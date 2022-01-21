@@ -1,1 +1,14 @@
-@import url("/styles/reset.css");
+/* 
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif; 
+*/
+
+@import "reset.css";
+@font-face {
+  font-family: "acherus_grotesque_regularRg";
+  src: url("horizon_type_-_acherusgrotesque-regular-webfont.woff2")
+      format("woff2"),
+    url("horizon_type_-_acherusgrotesque-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
